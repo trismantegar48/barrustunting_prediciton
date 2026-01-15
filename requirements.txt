@@ -1,6 +1,6 @@
 streamlit>=1.30
-numpy>=1.23
+numpy>=1.26
 pandas>=1.5
 matplotlib>=3.7
-tensorflow==2.13.0
+tensorflow==2.20.0
 openpyxl>=3.1
